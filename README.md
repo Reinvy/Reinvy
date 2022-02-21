@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reinvy
 - 👀 I’m interested in Game, App, and Web Dev
-- 🌱 I’m currently learning C++, Python, Java
+- 🌱 I’m currently learning Dart & Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
