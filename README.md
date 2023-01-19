@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reinvy
 - 👀 I’m interested in Game, App, and Web Dev
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I’m currently learning Flutter & Spring Boot
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me +62 89513339074
 
