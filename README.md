@@ -43,7 +43,8 @@ Check out my latest posts on [Medium](https://medium.com/@reinvy) for insights a
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Seperti sebuah aplikasi yang sukses, hidup membutuhkan desain yang baik, eksekusi yang tepat, dan pemeliharaan yang berkelanjutan." – Reinvy
+> "Just like a successful application, life requires good design, precise execution, and continuous maintenance." – Reinvy
 
 Feel free to explore my repositories, contribute to projects, or reach out for collaboration!
 
