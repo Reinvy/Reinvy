@@ -18,7 +18,7 @@ I'm Bahrul Ulumul Haq, also known as Reinvy, a passionate developer specializing
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
-![Reinvy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reinvy&show_icons=true&theme=radical)
+![Reinvy's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Reinvy&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reinvy&layout=compact&theme=radical)
 
 ## 📌 Pinned Repositories
