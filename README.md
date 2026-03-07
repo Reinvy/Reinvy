@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Game+Dev+%7C+App+Dev+%7C+Web+Dev;Flutter+%26+Spring+Boot+Enthusiast;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A960F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Mobile+Engineer+%7C+Backend+Engineer;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Profile Views & Social Badges -->
@@ -32,8 +32,8 @@
 name:       Bahrul Ulumul Haq
 alias:      Reinvy
 location:   Indonesia 🇮🇩
-focus:      Game Dev · App Dev · Web Dev
-learning:   Flutter & Spring Boot
+focus:      Mobile App & Backend
+learning:   Flutter & Spring Boot & Express JS
 open_to:    Open Source Collaboration
 contact:    +62 89513339074
 ```
@@ -69,7 +69,6 @@ contact:    +62 89513339074
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
@@ -110,11 +109,7 @@ contact:    +62 89513339074
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🏫 **[SIAMI](https://github.com/Reinvy/SIAMI)** | Comprehensive school administration management system | Spring Boot · Java |
 | 📱 **[flutter-novelku](https://github.com/Reinvy/flutter-novelku)** | Novel reading app with beautiful UI | Flutter · Dart |
-| 🧮 **[flutter_kalkulator](https://github.com/Reinvy/flutter_kalkulator)** | Sleek calculator application | Flutter · Dart |
-| 🌐 **[Web_AMI](https://github.com/Reinvy/Web_AMI)** | Academic management web application | HTML · CSS · JS |
-
 ---
 
 ## 🏆 GitHub Trophies
