@@ -102,8 +102,6 @@ contact:    +62 89513339074
 
 <div align="center">
 
-[![SIAMI](https://github-readme-stats.vercel.app/api/pin/?username=Reinvy&repo=SIAMI&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Reinvy/SIAMI)
-[![flutter-novelku](https://github-readme-stats.vercel.app/api/pin/?username=Reinvy&repo=flutter-novelku&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Reinvy/flutter-novelku)
 
 </div>
 
