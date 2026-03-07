@@ -114,7 +114,7 @@ contact:    +62 89513339074
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Reinvy&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=Reinvy&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
