@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 112" width="1050" height="112" role="img" aria-labelledby="quoteTitle">
+  <title id="quoteTitle">Quote by Reinvy</title>
+  <defs>
+    <linearGradient id="fbar" x1="0" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A960F7"/>
+      <stop offset=".55" stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <style>
+      .quote{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:15.5px}
+      .mono{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,monospace}
+    </style>
+  </defs>
+  <rect y="0" width="1050" height="1" fill="url(#fbar)" opacity=".45"/>
+  <rect x="48" y="32" width="3" height="50" rx="1.5" fill="url(#fbar)"/>
+  <g class="quote" fill="#4A3E60">
+    <text x="68" y="54">Seperti sebuah aplikasi yang sukses, hidup membutuhkan desain</text>
+    <text x="68" y="78">yang baik, eksekusi yang tepat, dan pemeliharaan yang berkelanjutan.</text>
+  </g>
+  <text x="1002" y="68" text-anchor="end" class="mono" font-size="10.5" letter-spacing="2" fill="#6B6480">— REINVY</text>
+</svg>
